@@ -13,27 +13,39 @@ These apps are useful for creating a custom/fake Discord Rich Presence for games
 3. Choose and open any of the blank apps.
    
 4. Open Discord and go to **User Settings**.
-   <img width="329" height="88" alt="image" src="https://github.com/user-attachments/assets/00691e09-2999-4d4f-9726-78f471f32119" />
+   
+   <img width="381" height="95" alt="Screenshot 2026-10-09 000002" src="https://github.com/user-attachments/assets/a9e7479e-5271-406d-8a4d-dcae6133afbe" />
+
 
 5. Go to **Games & Apps → Registered Games**.
-   <img width="240" height="97" alt="image" src="https://github.com/user-attachments/assets/8cc2e716-0b64-468c-b5e5-466739c8af5f" />
+   
+   <img width="266" height="745" alt="Screenshot 2026-10-09 000224" src="https://github.com/user-attachments/assets/852731cb-193c-4342-a5a6-37446be8e74e" />
+
 
 6. Click **Add it!**
-   <img width="769" height="186" alt="image" src="https://github.com/user-attachments/assets/b1184d0d-8ee6-46e8-b91b-31ae116ed8be" />
+   
+   <img width="1386" height="410" alt="Screenshot 2026-10-09 000301" src="https://github.com/user-attachments/assets/22dcca6e-c4ab-4afa-85b6-f417af6c2d28" />
+
 
 7. Select the running blank app (e.g. `Blank App 1`).
-    <img width="776" height="229" alt="image" src="https://github.com/user-attachments/assets/d92ab4c2-acfa-4783-a963-72ac68f0fe00" />
-
-8 Click on `Blank App 1` again to rename it & enter whatever you want to enter.
-    <img width="721" height="232" alt="image" src="https://github.com/user-attachments/assets/3ce4ee2d-1f33-4b88-9447-ceb986e9bd07" />
-    <img width="451" height="250" alt="image" src="https://github.com/user-attachments/assets/45910399-bee4-455d-b8d2-da236a5de214" />
+    
+   <img width="1379" height="478" alt="Screenshot 2026-10-09 000314" src="https://github.com/user-attachments/assets/f4ee3afe-63dd-42db-88b2-c856120ab689" />
 
 
-9. That's it! The renamed app will now appear as your current activity on Discord
-    ![Uploading image.png…]()
+8. Click on `Blank App 1` again.
+    
+   <img width="1382" height="356" alt="Screenshot 2026-10-09 000328" src="https://github.com/user-attachments/assets/8e0ca983-0a70-4ba7-94bd-75cd25d5e0e8" />
 
 
-That's it! The renamed app will now appear as your current activity on Discord.
+9. Rename it to the software or game which you want to show in your profile.
+    
+    <img width="1379" height="395" alt="Screenshot 2026-10-09 000339" src="https://github.com/user-attachments/assets/0a3967ef-def9-4d0f-a388-ab0a44a2df62" />
+
+
+10. That's it! The renamed app will now appear as your current activity on Discord
+
+    <img width="944" height="318" alt="Screenshot 2026-10-09 000417" src="https://github.com/user-attachments/assets/c848442d-3ba2-4454-8f9d-d394f6310195" />
+
 
 ### Example
 
